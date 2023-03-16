@@ -1,0 +1,3 @@
+[submodule "javatraining"]
+  path = javatraining
+  url = https://github.com/experimentworks/javatraining.git
